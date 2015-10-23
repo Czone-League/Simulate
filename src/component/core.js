@@ -1,3 +1,5 @@
 /**
- * Created by shenlei on 2015/10/22.
+ * Created by shenlei on 2015/8/31.
  */
+
+var Widget = {};
